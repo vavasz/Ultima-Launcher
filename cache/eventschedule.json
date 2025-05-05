@@ -1,0 +1,82 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "Double Bestiary!",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "Double Bestiary!",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "Rapid Respawn!",
+            "displaypriority": 6,
+            "enddate": 152429978682,
+            "isseasonal": false,
+            "name": "Rapid Respawn!",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "50% skills e double bestiary",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "50% Skills e double bestiary!",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "25% bonus loot",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "25% bonus loot",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "Mais monstros Fiendish e Influenced para a Forja!",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "Fiendish e Influenced Monsters",
+            "specialevent": false,
+            "startdate": -62157294457
+        },
+        {
+            "colordark": "#191970",
+            "colorlight": "#6495ED",
+            "description": "PROMOCAO DE TIBIA COINS",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "PROMOCAO",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#1E90FF",
+            "colorlight": "#63B8FF",
+            "description": "INICIO DO BATTLE PASS",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "INICIO DO BATTLE PASS",
+            "specialevent": false,
+            "startdate": false
+        }
+    ],
+    "lastupdatetimestamp": 1745510730
+}
