@@ -1,0 +1,82 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "EXP!",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "Double Experience!",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "50% loot e boss loot!",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "50% Loot!",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "50% skills e Rapid exercise weapons",
+            "displaypriority": 6,
+            "enddate": -36910609547,
+            "isseasonal": false,
+            "name": "50% skills e Rapid exercise",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "More Fiendish Monstes!",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "More Fiendish Monsters!",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#9932CC",
+            "colorlight": "#9B30FF",
+            "description": "2x recompensas de tasks, boss tokens e hazzard coins!",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "Craft Days!",
+            "specialevent": false,
+            "startdate": 64071636537
+        },
+        {
+            "colordark": "#191970",
+            "colorlight": "#6495ED",
+            "description": "Ultimo dia para reinvidicar TODOS os premios do battle pass de abril!",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "Fim do passe de abril",
+            "specialevent": false,
+            "startdate": false
+        },
+        {
+            "colordark": "#1E90FF",
+            "colorlight": "#63B8FF",
+            "description": "Inicio das recompensas do battle pass de maio!",
+            "displaypriority": 6,
+            "enddate": false,
+            "isseasonal": false,
+            "name": "INICIO do battle pass de maio!",
+            "specialevent": false,
+            "startdate": false
+        }
+    ],
+    "lastupdatetimestamp": 1746623099
+}
