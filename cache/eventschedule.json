@@ -27,7 +27,7 @@
             "colorlight": "#9B30FF",
             "description": "50% skills e Rapid exercise weapons",
             "displaypriority": 6,
-            "enddate": -36910609547,
+            "enddate": -36909659147,
             "isseasonal": false,
             "name": "50% skills e Rapid exercise",
             "specialevent": false,
@@ -53,7 +53,7 @@
             "isseasonal": false,
             "name": "Craft Days!",
             "specialevent": false,
-            "startdate": 64071636537
+            "startdate": 64072586937
         },
         {
             "colordark": "#191970",
@@ -78,5 +78,5 @@
             "startdate": false
         }
     ],
-    "lastupdatetimestamp": 1746623099
+    "lastupdatetimestamp": 1747612120
 }

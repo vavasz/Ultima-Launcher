@@ -1,0 +1,6 @@
+[ 2025-05-18 20:58:17,446 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-18 20:58:17,688 ] Using spritesheet cache size of 910
+[ 2025-05-18 20:58:19,323 ] Asset loading complete
+[ 2025-05-18 20:58:19,833 ] Client is started for first the time.
+[ 2025-05-18 20:58:20,098 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x180126f0310), parent's thread is QThread(0x1800a1f7910), current thread is QSGRenderThread(0x1801237cd70)
