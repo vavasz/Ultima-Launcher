@@ -1,0 +1,10 @@
+{
+    "blacklistTypes": [
+        3035
+    ],
+    "listType": "whitelist",
+    "whitelistTypes": [
+        3035,
+        3043
+    ]
+}

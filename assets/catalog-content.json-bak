@@ -53942,5 +53942,2789 @@
     "firstspriteid": 357195,
     "lastspriteid": 357203,
     "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ff6b74fa5ddfc122addc565195690090c8040e0604f0606c430f6215e5aef91c.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 357204,
+    "lastspriteid": 357347,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c59e53518da5fdefdbd8da45884fb16f8db5c1bc896b14779e641d6b94db3364.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 357348,
+    "lastspriteid": 357491,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-fa52358d7425a539eb94252cd1fbdab2d5d6508c8552dfe29917ff1528a7c0ed.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 357492,
+    "lastspriteid": 357635,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8becaf7332fac71d7e13c20a2c543e0335486d1618ebe4b31300c9be12ee1bfa.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 357636,
+    "lastspriteid": 357779,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e705043533efe360dcc5d26cefed91b06725880d456cdabf66e3f1ac260ad4a0.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 357780,
+    "lastspriteid": 357827,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-df27028cbb904228dbacf1a356511a0d2585f47b1a936633b7df757c77c17ce1.bmp.lzma",
+    "spritetype": 1,
+    "firstspriteid": 357828,
+    "lastspriteid": 357898,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6571bad8eb0e15322144876f4d0683a649b3703c07f3244059585945d926a8b1.bmp.lzma",
+    "spritetype": 2,
+    "firstspriteid": 357899,
+    "lastspriteid": 357928,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-82c1d833561d339f8c305afb7c8e457f4d6251961d300f7a2634784806cadc05.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 357929,
+    "lastspriteid": 357964,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c1bfc5de91c4677210cfc68eb06a9bc844fcae49a4cc7870972907d87a00913d.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 357965,
+    "lastspriteid": 358000,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b448a72c52fc3a7c0ad2c51fa957eb4f38de5643d5bd4127b2c79a1f4207e23c.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358001,
+    "lastspriteid": 358036,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-de67d107112babf9a481627c840d4d449c7a03da63eaf3febf6447aa915d88a3.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358037,
+    "lastspriteid": 358072,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c52a870a3812acd3e780d9095e4241fe8efa19405bdb6407df030f8463732260.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358073,
+    "lastspriteid": 358108,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1164b3cb5d9dbce9418e21e2ad03587f00cc8e0ab80a1257cb0a0ce6520dd958.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358109,
+    "lastspriteid": 358144,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4376cde8bb78ea95ebfffc2d1519dfb4cd531072bcdb0e3822fde35d0e0cb7db.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358145,
+    "lastspriteid": 358180,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8d052765926112b50390ae56b41c66fea02e5ba74c16e0fd12b93f01d51e87d0.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358181,
+    "lastspriteid": 358216,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4fa334247e396b0ecb8381b35d99943df32d13fa5baa988457e87ca6d18cd8e2.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358217,
+    "lastspriteid": 358252,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-11917cb5a0346f04d64cef3a1408cdbde4878b3e0475d48211e3473670b36e0e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358253,
+    "lastspriteid": 358288,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3bb869c56d6b834fff790dfadbd0747b7e09737a6698033bdf2b1afbf6660aa4.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358289,
+    "lastspriteid": 358324,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a8746b66b4458203b71ee06cb191da0c3ac3df89f1294ac3c039510ef99_3311.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358325,
+    "lastspriteid": 358360,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2e58aca4e4c4afa54a9b5c00d20ed33740872672478048fd002100a678a_4992.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358361,
+    "lastspriteid": 358396,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e4f77b7ff7fb50d5d9c24725a03aff1160d9dfb2dbbcd593795be4ed3ab_9580.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358397,
+    "lastspriteid": 358432,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f34d282d26f9c92b6b5f9ca1bcae390cf1cb47b36df4fb65b7188e28fcd_1878.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358433,
+    "lastspriteid": 358468,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7d10d52fc90690a6426c9cd5bc61e9db6330c49a6cb83d18b28b7f2a1bb_7848.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358469,
+    "lastspriteid": 358504,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-44d2fab9ac7bf6c0327b6edd4bd7649e7631dab6cdb5759fda45998da4c_3898.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358505,
+    "lastspriteid": 358540,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-63afc23176ac6aab7c3b4cef126956f5f24b37e854da35e5d246803547e_5390.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358541,
+    "lastspriteid": 358576,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7a372d2691a8ce4c4bb6c29d776da3e31799cdab440ef89975bd1d0cec1_4535.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358577,
+    "lastspriteid": 358612,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-483388b49b60b6f1e20f750c6306b777c215c496de07a637a43999c5b50_6423.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358613,
+    "lastspriteid": 358648,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-9146b981a07f3980eeaa1163f4314eb4b39f8727ebd579509da52d45404_8571.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358649,
+    "lastspriteid": 358684,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-210032c1b3d272936698eeb97c94e8a0657eed1722bf9365e64770d69ac640d6.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358685,
+    "lastspriteid": 358720,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-93d8b2dd2f49fd068683d7f9786ec8bb6d1451ddc93de7d2dd90d3d746a4d2fe.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358721,
+    "lastspriteid": 358756,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8282d18c97c4a82ca3d2295b16e0dbc98da3880201910d103d8eae8f77d50829.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358757,
+    "lastspriteid": 358792,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5de7d638357251f40276387dd9da5c877f6258b84792e5746515a11f8708198a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358793,
+    "lastspriteid": 358828,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-60ca10d4b10638bd6523fe81a493f7661a1be5ee1168fd57ad479857b3133451.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358829,
+    "lastspriteid": 358864,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-274fee22ec8035fd04d721efc0d4a2f72492ce65510209f018ade800165bec98.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358865,
+    "lastspriteid": 358900,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d24ed1afd124a2f4bb0b12068d3edc9ca2556a966e7c657378dffdb51b5d9803.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358901,
+    "lastspriteid": 358936,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-69cbb511fe28f525ba099440db82313a9cc96066e1f0cbed41409bb27da798b6.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358937,
+    "lastspriteid": 358972,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7bc7cfa1ae9e1fbfbd81e86795327bf86a52e6004d50f36172cfc417d0b53c68.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 358973,
+    "lastspriteid": 359008,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d32639bd4c6728a255d99fceff9bcd3f5951e051cbc15305bc30f30a019d98e5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359009,
+    "lastspriteid": 359044,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b7f15e4b7cd49af669dff15e114796f0ed39ba191b5700beb1f498df8efb5cf2.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359045,
+    "lastspriteid": 359080,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-06ea6dedb6753a5124339ac72cbc52e6725e8017878cc25ef73deb7c4b6a50ee.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359081,
+    "lastspriteid": 359116,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-12701229948fc3f4327b4196659e6a2a1b86fd126af59f71b476c53ca4289761.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359117,
+    "lastspriteid": 359152,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3a7d4953eeded3189d61fca181ed7c586397acd0ca6fcc43261f7a3ab99df65f.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359153,
+    "lastspriteid": 359188,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5262d6381e17b75a74572c3484111f7afd408df87264718c022bb9d4091ee251.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359189,
+    "lastspriteid": 359224,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0747ebb162a4cd93fe41444e2d4617dc8117382b75344896b45c8ab6eaa3e8ab.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359225,
+    "lastspriteid": 359260,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5045a678da7001883a42198c629c653be2329ff128eb2801ab692d05bf88f847.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359261,
+    "lastspriteid": 359296,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-90c6f60d7d2fb9e97262c029b807c98ce20e7cd2266d8ad7b48e31fa9cfddae1.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359297,
+    "lastspriteid": 359332,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-54ca12245dc2655e7515178f189f4aa904e322d1ee44d5f7f698a61a1ffd6dd9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359333,
+    "lastspriteid": 359368,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e593e24bbefdc1f6d0d2a05a23c5db6d2ddd52d08a4ae99166ac8cbd5a057331.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359369,
+    "lastspriteid": 359404,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-50f087021fe452085ad2dc9058127ea5a56e2bf39a2eced72fa131b5f81ba983.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359405,
+    "lastspriteid": 359440,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2e2bfdee033dab3107b74066c06962ee53348bb24b016134b87a5685acaf2f78.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359441,
+    "lastspriteid": 359476,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-9ad4cb9b01d8b27a71877db2ec311a01fad01fed4c15607423616e8383946a5e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359477,
+    "lastspriteid": 359512,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f20614fba8b1af3f0d8cf4e3f9aeba0e383a112de2075cd23ab13ee7bff895c5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359513,
+    "lastspriteid": 359548,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-dfae3741fb02e6bc05db4f2e9a66e9481bc73c6d116e92e2a121de12f5dde060.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359549,
+    "lastspriteid": 359584,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-72d19c63a1c884b0cf5fe33d13bac52e22ddd891c3a5d5d71f90c82161c39feb.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359585,
+    "lastspriteid": 359620,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2e0d6a529373ec78826ef2ba39f7c7e98d364e2731900cc1c784546b08a9cdcb.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359621,
+    "lastspriteid": 359656,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1247c520c20b2c80e63446a458ea92024d178a0543147315a261d7274b02f2c5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359657,
+    "lastspriteid": 359692,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-95acf923ceb96a502372ee17fb75688324c86c11065fa610077682c5767ea943.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359693,
+    "lastspriteid": 359728,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-74cccbbd08aaf3bd636907b25c48c7c18ef1b4b0d67f17377711e7416832cb2e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359729,
+    "lastspriteid": 359764,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a6dd9c905233ee0163e300015f1d22f38179228e45860c3b226b7635e80d7c52.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359765,
+    "lastspriteid": 359800,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-28885ea1bdec7c48b6305ca4e0328bb238059b3546670d2a6d14951553784d11.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359801,
+    "lastspriteid": 359836,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-70e6ecf499e4db596c02da00bd222a5daf77cbafd982c02c6fef260591570cd7.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359837,
+    "lastspriteid": 359872,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c09a66dbd9395c7a2d134057ca46b5e77ba81390ff5f158fe53bf749fce547c0.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359873,
+    "lastspriteid": 359908,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-053889e9612567d449413c65f7963e3d6651aed87fedd6a95af6a37970bc86cb.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359909,
+    "lastspriteid": 359944,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5d22c1b237dffe1926d93ea8aae5d50ae9b93792ce3647a6565544a3bfbde1a6.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359945,
+    "lastspriteid": 359980,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-68efdefd9cacc6c1d2fd0c3b1f0a7fbccdb4124c7831fff3ad8db41e0a90041f.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 359981,
+    "lastspriteid": 360016,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-91737b8deaae8a75a27a4ee683173604f719fc2d69fc48f8e732b04a5604bd52.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360017,
+    "lastspriteid": 360052,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-485db535301342bbf8c2a97997e9715cabb8de62e70b02bae408e9d95dfb3604.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360053,
+    "lastspriteid": 360088,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8c0e2483bd15c8d5ce28bf17a41e2b518bc48937a099dd664051151581786942.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360089,
+    "lastspriteid": 360124,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2cc4a7534203282a112397de2a367049396a027d153e1d8ca336ee7832330825.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360125,
+    "lastspriteid": 360160,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3a8d471b3bac4932b07b0787d29b3c8803b6fb9dbc33df282c6498f8b85798a0.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360161,
+    "lastspriteid": 360196,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c53aa9a1fb2ae229f5e6aaa2c9e7f4f5879b09b94e46efffc2292ef9cab25903.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360197,
+    "lastspriteid": 360232,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-181b02205104ac2639b17d641be4c81ee611bd7842c39d7d429582ce960b1af5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360233,
+    "lastspriteid": 360268,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d3d4fb0f72db40aa45acfc7a7617147c25915667a3c062505ecacdd2b5f0440a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360269,
+    "lastspriteid": 360304,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-73664f5892f4a6d3682935bee70df160d590dc830cd448bfe779219b55c6fed5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360305,
+    "lastspriteid": 360340,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-9d04ec73b21ad6987577a5819bceba4d5dcf26b517fc7a08855f412b0d94265f.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360341,
+    "lastspriteid": 360376,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d33932533d6dea53e12ed360acbe66e97bfedc88d9862035c8b104d75130d286.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360377,
+    "lastspriteid": 360412,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c3454b0b7c2cb0bc1cbecbad5aa07564cb06ed60953af1c903119e34c53e2f7d.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360413,
+    "lastspriteid": 360448,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-56d968c8a708f664b4d7973e3a5948910fb29f770c5657e7276b4fbf55ee60cb.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360449,
+    "lastspriteid": 360484,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ad433ba0670a22107e64dd92eec357cbb745e3ce0cec8bdba60437fc33381c30.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360485,
+    "lastspriteid": 360520,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6b838b77993ab8d6ecd0edf8758691e82a9429313f7608fcfd5bb7124754a1a4.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360521,
+    "lastspriteid": 360556,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0e346be13284e57fc5645fdaea9b539ae42978c9e63686d5fcd6bc4e12a05f28.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360557,
+    "lastspriteid": 360592,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-9666a6679e4d8aae8e84f8a52a89002010d7b53bd4f6d4d6763a05e1fee0e3dd.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360593,
+    "lastspriteid": 360628,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-50df6b9537c59c0d7813e18d38ceed4b4a7871f7ed095deb77922262f226724e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360629,
+    "lastspriteid": 360664,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-540a34b0297dc9b465f01835672747db42566f582ded431f55914f969d85f50a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360665,
+    "lastspriteid": 360700,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-775df78b86bec75263627498beb31dd5717604cf3baaaf21f73af12a5436e54f.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360701,
+    "lastspriteid": 360736,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7a3f02a047869f5b3ccc0006e15a7fc6e13c7f9abcaabf0e628d54621bb5babe.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360737,
+    "lastspriteid": 360772,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f9081fc6cc35cc61915c00fa0a68f76ea7e307980f6475c8c888bcbf8cacd726.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360773,
+    "lastspriteid": 360808,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e9c5991bf1484255e3ab2e1c2ceef5e86421037a3d4a3f0172ab4e6888b3031f.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360809,
+    "lastspriteid": 360844,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-318ec96e19f5e379c3cbeca6af21a0fa8e8c71a2ad1470e690b8f81f624d8145.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360845,
+    "lastspriteid": 360880,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ba1f31001e3a91eee49a323944ce343ff9756d8d0b3481d734b70e8840333504.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360881,
+    "lastspriteid": 360916,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-aad7839afaefa3c3ce18353cd390e6af9b08b95b03cd5d9ffcab25b47badeac9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360917,
+    "lastspriteid": 360952,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5d723064c5fb04946c8cbab9925436757a971d1fa8de617a0bf1268262d55cc3.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360953,
+    "lastspriteid": 360988,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6b83032a5e5f0d6199518bb46638fcc1c080996bf88fa16d6dad8639fb39c064.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 360989,
+    "lastspriteid": 361024,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6149e7a9954ac2f1c59fe76ab1421e4e5d14dcae356d7e81eb65c1d0e9c256b2.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361025,
+    "lastspriteid": 361060,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6e12db49e093e1a4025866a9d6d36ed9cf9fe45848996cefd0215090522ed4c5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361061,
+    "lastspriteid": 361096,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ff7157c4ffa9da40fce032056bfeb31d1c29d9b05aeed5cb87c4930325898731.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361097,
+    "lastspriteid": 361132,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0107c8feb973b179a7e3e512c9f30ad80f9d25e792239a9432049fa680b40ad0.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361133,
+    "lastspriteid": 361168,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-73ba0b15a89bd3063d60362d675aa83dceffd42ee94e740125ddeafbaa020c2d.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361169,
+    "lastspriteid": 361204,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-874116b6b8a719ac165a276857812529198cdc3c6775e4121eba0d5c6334441c.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361205,
+    "lastspriteid": 361240,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-81742c9ff6d1fa4fb6c41b295264d7aa785a1fba8495587c399d5efd6b96835a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361241,
+    "lastspriteid": 361276,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-beb8f0228920df4e81d56f7b49e3ef463117b1279f6366f4e099c752e3200164.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361277,
+    "lastspriteid": 361312,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3b579b9efea47f4a0716fdd537cb188c40a6e3d57f71d256dadece2ac3e05ffb.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361313,
+    "lastspriteid": 361348,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-127b9a9364f2426f87e077816bfe0ee738138b1db1a72ed6fcd4aab10a569d4e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361349,
+    "lastspriteid": 361384,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7d88758c1f4376792d440eea1bd2289c55a5a4dd41e4c88af7a93231d6300b90.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361385,
+    "lastspriteid": 361420,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-317e566863ba943cca4b1de0714c61172193357f84e20bced865417c4fab941c.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361421,
+    "lastspriteid": 361456,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b59e6d51fb0b652fceea8028d12d78b17f0c32f229a67367de5db726d13faa24.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361457,
+    "lastspriteid": 361492,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4bfa0083e5076435f39f0278d5b5e660a8df1e076466431a3291baa219a47460.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361493,
+    "lastspriteid": 361528,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-45e12705c5ae4d0bb3dbc1724aaf0e711f05b1339524ee7e8cb602da4fbd0b83.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361529,
+    "lastspriteid": 361564,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5ae61bdc467f31cf43e862f6219c0eda56e7e5ff85bb2cdeba29ac41d3f50d13.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361565,
+    "lastspriteid": 361600,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8e57609585f77bfc4536266336926437ee3e174d3beae4438491b5fe76afece8.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361601,
+    "lastspriteid": 361636,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-095dcfde8fbcb8b1b0a1e673bfeb15c638275bd09436dd7e01145c7f2eb99231.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361637,
+    "lastspriteid": 361672,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-19018744e17227940680d6f63ec6e45a78f218cf76e546b952587c764843bdb7.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361673,
+    "lastspriteid": 361708,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-9cbce4c37ca6b69c42b5a9a359fd5cbc438aed5171a7c593396109e9f9b41d51.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361709,
+    "lastspriteid": 361744,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-de767935bb81fc6689cb62bb0e9d6b2b429c91cf5a76ffde583eb4442320fb5e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361745,
+    "lastspriteid": 361780,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5dbac06d5f84d50cebac729d545794bc8cb4a337b5b02e49133c22829500bfb8.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361781,
+    "lastspriteid": 361816,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e54e75719d93eec1dc5d66a8a1f8fcb70c6e95bc1bd2241655d99eb1847533b9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361817,
+    "lastspriteid": 361852,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-30824bd7eef6be330963b1b33df77f056a152d76fa21e14bb57816aad4784e91.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361853,
+    "lastspriteid": 361888,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-cf2d276f221b278d06e3767e5f6385819bdbec5e896599444d3f6d724e2d7a34.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361889,
+    "lastspriteid": 361924,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4f18e8c63851b9853f968283d9a6a3a08e37d03bc3a235843bfc03376db69260.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361925,
+    "lastspriteid": 361960,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a383585e2e91252b61e60d28f1df4e8544ed8e4bf256369f9b8e32461f1ac348.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361961,
+    "lastspriteid": 361996,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c2c3a31cf532717729ac104994a9a456de090b06ac150e5625abae3e8e2dfc49.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 361997,
+    "lastspriteid": 362032,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6e82f90bde5976dada742a154c86d04b5397e62d36409251cb4b4b26afed43f3.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362033,
+    "lastspriteid": 362068,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a76df84afb7cb18f0b8e73a37c3ff41e38923920d183546ae21c5f310570be46.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362069,
+    "lastspriteid": 362104,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-61e8473fd8d1fe9cb929d91938d713249ebb05c15eba3a3e5319b3c42cdc5049.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362105,
+    "lastspriteid": 362140,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d8053df89c16484e358f64aaee1f10f9359c4467e1e1fa4c7a8bcf0e53522d7d.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362141,
+    "lastspriteid": 362176,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-47f9910420c6d1ce68ca0d90f7fafea2489aa980898af1b5cd70f71551ea19bf.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362177,
+    "lastspriteid": 362212,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c471cc8d9ea64e0432c1c25e9be484bbe228e52ae1aaa8d4f4bee9e9e9e6509e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362213,
+    "lastspriteid": 362248,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1d3c8eeda268df507ba53a96ed153d9d8823188aa0aae9e032c0994af704c6c4.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362249,
+    "lastspriteid": 362284,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-76adfbb09ac354d405cb70fbf433e2b47c300ba06572d6b96bbd7eefa0a0fc79.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362285,
+    "lastspriteid": 362320,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6b5642df9508f347c66736cdb770956f14c07548aec55f9ce48a03d43c4e5530.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362321,
+    "lastspriteid": 362356,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7d0394751846b5275c78d9481eb11c0100871439ed3d368178891d461acd6629.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362357,
+    "lastspriteid": 362392,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-135fd000a7d5ebe85bae3b79a8a6a84f15d61ef101d6dd967409b2ebcc647938.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362393,
+    "lastspriteid": 362428,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f0bb74eedba732164a34bf2f569b3c85f3b6d792e9b4f4a911434673e0dc9d7b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362429,
+    "lastspriteid": 362464,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-61b688a16a7ac79a6425fe0b720fd0a8ec03b72c2fe97a11dcc69b22f79ef018.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362465,
+    "lastspriteid": 362500,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e782d067a87b382ccb787757ed0658a5e1ac7c53ced4eae702fbe5042d9accec.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362501,
+    "lastspriteid": 362536,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6b296de43cd4781209e4afba6006f3ce1e142b990eb55e4de887e9cdca812597.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362537,
+    "lastspriteid": 362572,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7e64ba0b29774b1aecd1eecf62720249a0ff9f9e83ac5bd72c5bbd8ea27acf31.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362573,
+    "lastspriteid": 362608,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-20ea016266daf7c90683c6e5c0a61b4c99b0e03daf1dd593ba305c3f8d273eac.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362609,
+    "lastspriteid": 362644,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-9485cedb2b1a0f66e35dd5be69933e8314b7af15f38e99ad61dafc7e823b17a5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362645,
+    "lastspriteid": 362680,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d220237a4435c85bb0097491595091fae6fb783bba4ef119932ed9c7db6b5e7b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362681,
+    "lastspriteid": 362716,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-caa880367219b47c0b3a13605757dc41be4f64edabead48adca9ac68363aac6d.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362717,
+    "lastspriteid": 362752,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-14f162752c7af82b4d8cce3f4cf58e29a28e902faa3fad25c173d98c5400dcf6.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362753,
+    "lastspriteid": 362788,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a04d0beabe4a32fc43fe738db4767d974da6e26e1c8f6e487160995b9510c211.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362789,
+    "lastspriteid": 362824,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-16b013f367a6ee791364104cf8e55ebf67d13dd9f777d6ae2ef546852f856c10.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362825,
+    "lastspriteid": 362860,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d2353ede1f47bc889b1c5d13b4d369d2e8e3587e7eefbab0a2598158d8602e71.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362861,
+    "lastspriteid": 362896,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-55771cf6e5bb222a4fe6b45c57a8d8d36f07de0cbe316c8095571fa30ec0f007.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362897,
+    "lastspriteid": 362932,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-37c7bd9d4be9f1fdf0023e4e2a72fbeda4b9284f58d262e839eaf464e4d9c858.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362933,
+    "lastspriteid": 362968,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-45b2d73dc4ed4599f364844433a4e73ac852930d2587da7c2cf8940e3f003a8b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 362969,
+    "lastspriteid": 363004,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-26830f468777d599e1030e4455709a5389c233ec2cba3eb825c12afad1b33428.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363005,
+    "lastspriteid": 363040,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-13946516525d09c0085cd5507bbe0df72234a13749cadf38149720a3a7fe6b69.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363041,
+    "lastspriteid": 363076,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-022ec0786dcf667e44b0cad1c4a82f03fd9f71731d49426dce4c7f78b855da5b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363077,
+    "lastspriteid": 363112,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-eadae19d8634bdbbe5849d18da5be8e92f29615573f4bbdea054f96d059de5f7.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363113,
+    "lastspriteid": 363148,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-fca800d61487d0dbc495782d00c17e9c9c505a964d1fd6365eda6537ced70bc9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363149,
+    "lastspriteid": 363184,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ca1f5f0c97957bbc9f38527ef55dd98c991f024a885b65b2cbdc0302f6a31043.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363185,
+    "lastspriteid": 363220,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c7a429c1824995e5375f7c32032a6084fc10112b762607715e339aa9e119fb0e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363221,
+    "lastspriteid": 363256,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d60f3a86494b909796582a40ea5edcce7ace75b7b80ad120047d3eaa0b96672b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363257,
+    "lastspriteid": 363292,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c993a79a16a584174d8160bb6dccc3715a47dced1b921fdf7d7d921a7e3be9b7.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363293,
+    "lastspriteid": 363328,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6d019fb4a27ba4923990cf8bb018f99622f1d78effa473343087a11aa2869cf5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 363329,
+    "lastspriteid": 363360,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8c3aa0d398509200095e8f43362b6f16407175d6c800c692303fca4b9b270e4a.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 363361,
+    "lastspriteid": 363361,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7be4f60696e7805f306e4628145ef8241cef7a9ebc12bc92b54924fc52b4389b.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 363362,
+    "lastspriteid": 363364,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_9681.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 363365,
+    "lastspriteid": 363508,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_1620.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 363509,
+    "lastspriteid": 363652,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_5842.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 363653,
+    "lastspriteid": 363796,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_9331.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 363797,
+    "lastspriteid": 363940,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_5220.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 363941,
+    "lastspriteid": 364084,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_2052.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 364085,
+    "lastspriteid": 364228,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_5547.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 364229,
+    "lastspriteid": 364372,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_2997.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 364373,
+    "lastspriteid": 364516,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_1913.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 364517,
+    "lastspriteid": 364660,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_1743.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 364661,
+    "lastspriteid": 364804,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_7097.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 364805,
+    "lastspriteid": 364948,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_4072.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 364949,
+    "lastspriteid": 365092,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_6218.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 365093,
+    "lastspriteid": 365236,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_2921.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 365237,
+    "lastspriteid": 365380,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2db7b13e30098b864236eff77e23ac63b24c36e17eb506d46ccc5d4433d_1306.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 365381,
+    "lastspriteid": 365524,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7c6ea204d2792615875388bd2383f83dae9884f0dca68f89196375c50f956a3b.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 365525,
+    "lastspriteid": 365668,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7d4cb0bad11497a963ceca1f8a0817a1c12888b4737711bb9a0e8f08093963f1.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 365669,
+    "lastspriteid": 365812,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f24ba4cb2cc15448c40e39f0db59162b706d5ccd57a27f831534725fc50ff82e.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 365813,
+    "lastspriteid": 365956,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0d0abf91d32b971b94e2b06767fa0839bae2b12ff9b3df81b305c0351aec4d88.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 365957,
+    "lastspriteid": 366100,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-85611927aaacccf87bb64f804249c990944237951385d3cb1ba68c1438c778c6.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 366101,
+    "lastspriteid": 366244,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-34851a49a9debba0eae15b1f8cb1deafe65f34d76d2d10fa21c120e139e3320c.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 366245,
+    "lastspriteid": 366388,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-953366c554e714f389d8aa37e5f6f8b2cae00f2068f9b3c96037dc644b408f15.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 366389,
+    "lastspriteid": 366532,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0fbd6b424349afae86b536cd301bc620343a59782a6ba30ab4d5a24e879acf28.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 366533,
+    "lastspriteid": 366676,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2d1b070d996b4549bd5f874e620aaa592301460d32889c996bb0fee163448e73.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 366677,
+    "lastspriteid": 366820,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-542adbf92082215cd2e16c2f303454a8e02c3797a20cd6031b569d4c8a4f908f.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 366821,
+    "lastspriteid": 366964,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3d4bd924e3b5006ddacf732c82e05cdea33db2a351d33e56f0558c6ccd1b6460.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 366965,
+    "lastspriteid": 367108,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f4d905e7efaca9e3ef04b66f5e2716d929d46bd84364045e70905ba5b4cef181.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 367109,
+    "lastspriteid": 367252,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-bdf3b5c707e05d39845755facdc44f1ba3ef33e4e12d470144515cb7db9fa677.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 367253,
+    "lastspriteid": 367396,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5ec597e3ee88374a87afd76603b6523843a49b47108df563de6ea972ee70344c.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 367397,
+    "lastspriteid": 367540,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e22cdc35e62d1422ab3c5ad866628c52009801e52062d542e087f3b70123e4bc.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 367541,
+    "lastspriteid": 367684,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f057322a7e61635b63124c87fc5e0ee023c66a5d80f78b6b468864c7b7a81f26.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 367685,
+    "lastspriteid": 367828,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1dd1ddcd1fff5481cdccfc97d67e34b1109ff20cc326f9f2f9c4ef997df48dc4.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 367829,
+    "lastspriteid": 367972,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2dd096d1e00687b6b50a3a23a2e69d7c1f5b5b48c040e4d465aad80a6fc136f8.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 367973,
+    "lastspriteid": 368116,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-500a9517feffc0449b4637412cc2bda507763fb1f62cc5e3456f75d466e22acb.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 368117,
+    "lastspriteid": 368260,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3ff71ce7988d8b296e573cf37b221a96bf4eea7b363027533ef62635b258f345.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 368261,
+    "lastspriteid": 368404,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-13461f02a57e260c2386687c0f66da8845b2ca83179225fe2a9645ace80ec090.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 368405,
+    "lastspriteid": 368548,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-194a34cde12cb81e3d295ffe724d686e14cb9d1a280b54a4d526f7379d02f58b.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 368549,
+    "lastspriteid": 368692,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ae45c1ccfedb32f8f2013cc42de897ca03d83c4be163c10f41789ae4cca10aa5.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 368693,
+    "lastspriteid": 368834,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c2627984205fd55cf6a396f8c500726478a714c919be7ff5618298368189ebc9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 368835,
+    "lastspriteid": 368870,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7c40490b7ebfd1ba3988db9abed78a0c52ae21bc8d6d270dce827e68b033592d.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 368871,
+    "lastspriteid": 368906,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-669a571c9e811ad7e4047b6f016f9872a82a093f93c2314923a1fbd8967cb37f.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 368907,
+    "lastspriteid": 368942,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6ac7f5cfc14d92d4bdebb74d51dc28da710eaae00b67dd47d81b582791af3b95.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 368943,
+    "lastspriteid": 368978,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-309b1ad06262e20b0653c80df3939023e195d033da2ed48eeebea2ecb23d3e13.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 368979,
+    "lastspriteid": 369014,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-cadf9ec413d65246e3f85b54fa59bdb5533b318ed16b838a137fb6f12af1a74f.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369015,
+    "lastspriteid": 369050,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6f71f723bd7c32c2583a8e7f0f4490ee69052e36d6c50a7fd7daa0f8ae1e0798.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369051,
+    "lastspriteid": 369086,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8283d20a36f5ad2a06a305b7175ac5c692e5fa0a1fbb2266ca680bf7b5ff15a7.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369087,
+    "lastspriteid": 369122,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-de44a09b707bd827a5bcbbec6ce6df1e06e85363806ffb5e30fca6d5554e1f4e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369123,
+    "lastspriteid": 369158,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ddfae1cedef36423b4fe6cfc877863a22a8dffb60525eed091895ec566566d45.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369159,
+    "lastspriteid": 369194,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0eeb4787a6693f14040b543220b603ea381a37369c1e470f798245c38594b9d6.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369195,
+    "lastspriteid": 369230,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7f07c1b3edbc2a036fb3bc58beab9f941e341bf33f4a18271f4bee86436523f3.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369231,
+    "lastspriteid": 369266,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-12d64a0492936a64e4e899ff64aa29def6d9801172c56107ae028eeb99074020.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369267,
+    "lastspriteid": 369302,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-96e6152c41d242852142a4a0d186d303a52228e00b2cbd99fe22155c19c5d90a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369303,
+    "lastspriteid": 369338,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0dc7de5212eda2d1d74e7a4df37b2519ae2bb52d226f982452b3513059853675.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369339,
+    "lastspriteid": 369374,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-98dd7651053a5ef1ce26bc2f2e9d91cb3dfe8fafe7fee62f9ad858bc669ed593.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369375,
+    "lastspriteid": 369410,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6d5aee35711d99efc74e750a837e4848e25b7bc5cc701c0bfecdc087eca12c3a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369411,
+    "lastspriteid": 369446,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3d932b8015ac86ec5e4c0dad6c9affed4bf3927214670ade5680aeeaaffc6272.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369447,
+    "lastspriteid": 369482,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2cfd876efe33b6387142d6027e5bfda805c739b038de434214a3a6e6a66bd775.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369483,
+    "lastspriteid": 369518,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d63b92b6a9fcb73b2e5f06a6e30ae399dcc92a04191c51b4f5b8023f0d00af66.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369519,
+    "lastspriteid": 369554,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d760bbdd04a8d4ba8efcfd2209384337341c34d314f3d7e97ebd992b6212c9c1.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369555,
+    "lastspriteid": 369590,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c8849282b039b6f93e31280749433d4d11ebad41ef1e57728b8663c60a2b1961.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369591,
+    "lastspriteid": 369626,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b86a6acd9d23090423ffc595de99fa771ddbf276ed6d76bea6973adb76898b2a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369627,
+    "lastspriteid": 369662,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f81f290859b1d850812117b352fdaf07e0a55031aeb11363b1ed6e3fd09d4b80.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369663,
+    "lastspriteid": 369698,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-68de284021fa346785d6bf23140b928ae4b76cf8cc2e959382fab937504505a0.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369699,
+    "lastspriteid": 369734,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a0f886ccb5a77acfcd959e8c175967808840f8569715c82e94ddff4bc7574991.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369735,
+    "lastspriteid": 369770,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4ea6fb39e4f2dbe77f6397ce41de7a0d97e0ba98f72b1cc4fd659fb089b623c8.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369771,
+    "lastspriteid": 369806,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-bf0b17b718a9b7cf55e532d709fcae7926f478402b3fb5dbd3f566ac8b69a060.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369807,
+    "lastspriteid": 369842,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-dcde1500a6bc60c62c48bbd241ad6ea4ecfa9f4586fe52abf99348ba620416f6.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369843,
+    "lastspriteid": 369878,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d114a6c48b0285d3a22a9129ef3132d9967db9cdc6579d6c35fcbd481932cbd2.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369879,
+    "lastspriteid": 369914,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a9cc0e015071d6ad3d6838541f8e0e371dfb4725b82f2f26697b67cfc07da24d.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369915,
+    "lastspriteid": 369950,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-958a0cf9936d6c05d21f767f7a6fa84ba75b9a3b2457b570dc0908cc487bfca2.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369951,
+    "lastspriteid": 369986,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-70c2ef269f19b6c980849f6dd67ca0e3a8ac026fae7a497753f58203d96b0914.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 369987,
+    "lastspriteid": 370022,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0f303a297f4913da984d061adc48e42e1a9e473e27123693fd5f0e152314c510.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370023,
+    "lastspriteid": 370058,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-cdb298dc69d7cc46c3b99d3ef04b010f615335912e045864111e8202a2cd39f4.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370059,
+    "lastspriteid": 370094,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5c6842a7cd89d559a26e7485482217df05a59a056fa5964d939a4be2edfade92.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370095,
+    "lastspriteid": 370130,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7e52d500e77e390c9d1d655230f099f3f619a6c59648ca32b91e788c3122871e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370131,
+    "lastspriteid": 370166,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6bd4cf8b28c9c20ab38eebcbb7fff6340468907c4e1b8b2682fcbaf92715d936.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370167,
+    "lastspriteid": 370202,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-6e500edf88964dbc7656c76409870b99ee487da28c4336115f15eb62b8440a53.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370203,
+    "lastspriteid": 370238,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c56c9af2f26d5c79b1a309f6dfab6c5da351851a970cdd8bd1bbb9378a348dbd.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370239,
+    "lastspriteid": 370274,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c36dcb7ec2c4529b2e04cd14fad4f7f7d9812ae73c129230416c9da660e53afb.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370275,
+    "lastspriteid": 370310,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8fc1ee1d53e57c956d7bbe0b8807ed2e8a4f812e9f48ce7ff8fcdbfcbba0ba6b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370311,
+    "lastspriteid": 370346,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b4f55d75c87e03432b11538649daf52db6a34546e1940de2f7e6b62a7fbadaad.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370347,
+    "lastspriteid": 370382,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3b4c2fc1d4f4ca4cd988a412ea920fb78ee274dd869914ea63867057e5e28e4e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370383,
+    "lastspriteid": 370418,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-953c71a2c1738d9c08dae55e04e80dbcf6a8d2d0a302237785a2594e79b806ed.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370419,
+    "lastspriteid": 370454,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e5b1b79d830e7e787c00e62ba55c67ea87b56596fb392fb2a69e52eeb6171e5f.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370455,
+    "lastspriteid": 370490,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-47b986252ba6ffc7f69e80c1806512930752345b7305e8467c8ec63159fa45a1.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370491,
+    "lastspriteid": 370526,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-bfdad72fa30a81331671630289ebe9a6b85e8328fd919d7e8387fb76af58afb5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370527,
+    "lastspriteid": 370562,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0835dd571f491dfe78595ded55f35da31b83f54337ed6ca64b57e016db460086.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370563,
+    "lastspriteid": 370598,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-482c16a81ac74280d35c0008424dad64fd115ea6a76d9b1209e2ede05bdd462e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370599,
+    "lastspriteid": 370634,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d0e99ccdf9708e3353ac56aaa4433d1fa41f059291a4f993bcbb3479e2c02cd9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370635,
+    "lastspriteid": 370670,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a5b815d528019adfc682729273939d77bdc0fd0c6bc07c42092e6cee507762c6.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370671,
+    "lastspriteid": 370706,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ccc2dc7dfcd1b23c5c10959c4ccc1ac9ccb94e61ca6f4f717ca2a4feb2d7f5d5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370707,
+    "lastspriteid": 370742,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-76a32b4af0da964d7f3694ab68641f9697f2002320c264ac5fdc90bc570b249f.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370743,
+    "lastspriteid": 370778,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1c1c9e2fd2469b2959c63445db37e544069e650628df36d2f27b2b07fee1e9a7.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370779,
+    "lastspriteid": 370814,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b88d2f1debe7ae2b385ae1027fb5dbc239d61cce16f5a0ef1ec19d6fa1c803e4.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370815,
+    "lastspriteid": 370850,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f86e8eefc75d07d06ff3192b2dcf52968f9d6f95d245391c9e5a49c429045894.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370851,
+    "lastspriteid": 370886,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8261c716a9748d4fb78aa3043d8b8f4805f2138ffea453f533228278338ee591.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370887,
+    "lastspriteid": 370922,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ad3e250c5b4883fb4c3bc95112d8a1377c4ed065fa0caef6565c76e8955df140.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370923,
+    "lastspriteid": 370958,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-99d50967da3c039358efba441bae5e9b233db905e08814341cec9f5f54645a98.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370959,
+    "lastspriteid": 370994,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-dd51d80c962aae3b7fee3181ef1715b080d28468dc5481e275f1fb8a0cdc6155.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 370995,
+    "lastspriteid": 371030,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f1b3989c76bfd4b5707121036bf0a46482f2368e4c4887993e9421d4a1156287.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371031,
+    "lastspriteid": 371066,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-22c3330c84029f7d69474e0e4280d4f41bb8e9e47a2ec33e40a76275222eb158.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371067,
+    "lastspriteid": 371102,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-bc87a2892ab7a07ae032b8bf2b7615e1ef475c49ba9b2bb6237844edfbb9c9d1.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371103,
+    "lastspriteid": 371138,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-81ccf2c9d26290b35bfd9eff2778865f8a8d48e54f67195214871fe412cbe175.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371139,
+    "lastspriteid": 371174,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c54dd179b3caa5cf03bd60cd9ac006fec32b7810f6a42357c01ef040fb2cea49.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371175,
+    "lastspriteid": 371210,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b694a6bc9ec607ac6a44c144811edee2a21dfd11a98ba286f9ee84b386793455.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371211,
+    "lastspriteid": 371246,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e424cab88c4c341c6485ca34b672024ddf6db08b9ff33fb741d6c88ab89ad2fb.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371247,
+    "lastspriteid": 371282,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ea2b9e8615e1ea3fc90010e5f6f7c9122904fc27b2a9476bdaeea9b6b36ac40b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371283,
+    "lastspriteid": 371318,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-aebfc32abe8c6d4d4761094d5e9928d828f06b05c6521a405cbcea9dc76280ca.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371319,
+    "lastspriteid": 371354,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5a1039a6b21d9baf5bd661bf6dfb1690cd5a82e65145ea6dd419ccd595bc27a2.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371355,
+    "lastspriteid": 371390,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1097bd2de7a620f1f4a9dac0d456ec71c0924878605ad8bf89a2baa93430cd52.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371391,
+    "lastspriteid": 371426,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-68261bc0d1f0592b071a4efad493a78e2ff6124049b516ce2cf376583028b7ca.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371427,
+    "lastspriteid": 371462,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-9becd3ac7d7e2b6962f84f969c40cb3cf09284495e234ec27077df336f2b81a7.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371463,
+    "lastspriteid": 371498,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-49b3c5ab38eb20cf0a1d4b64e7abe4f35d5aa2929c1467d3f4f5ace5f6acbfe7.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371499,
+    "lastspriteid": 371534,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-82565e0948c94eab7d36be47be0c86db9b44d1604856612a286acb1a59ecb6f8.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371535,
+    "lastspriteid": 371570,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-351596371b341ccb69909443620943e76d46eb462b241faa121f0f0595d39502.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371571,
+    "lastspriteid": 371606,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4dfe7c67685a9fb3f5fab08a0d25ba38f3f6d0328700211599e8f0f29d987770.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371607,
+    "lastspriteid": 371642,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1039dffb6b02a1e7b8f5e47be75fcea00365e4e0bb2510ed70cae2999d200873.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371643,
+    "lastspriteid": 371678,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1335ecf7381b5f9142145c630d851e1a649c431597bfc8735c5efb2e5018b804.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371679,
+    "lastspriteid": 371714,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-832a83d0d6228b1656becfb3d84e89e5b9adce40b660de7f0f7d010511c6a475.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371715,
+    "lastspriteid": 371750,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-678532500fcf037e535813195cabb677cce33323a67f12c61e089c32f2525263.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371751,
+    "lastspriteid": 371786,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-d964c121eb9f960750ddab48fe8743bb58ffd144d66e3634d012b116fa1d32cc.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371787,
+    "lastspriteid": 371822,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3a082074d7047110a3b8a08225e3b482fee59ecef93e80bf50878869ac4a03ee.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371823,
+    "lastspriteid": 371858,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5df2c319f04d849100b55102c3267a20bfac7d35e7c125a18b1a8e932b30538b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371859,
+    "lastspriteid": 371894,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-53ee159f6e81266764d5201180dcc5a9450bc229400a0792b10c418a686cc70e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371895,
+    "lastspriteid": 371930,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-45741cf382091beb6e92dcd7db601a6a684ae221f4bd65d382e6c616d5c55be1.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371931,
+    "lastspriteid": 371966,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8903fcca721006594f63cd131cfda1a00dcc0fb1243784c99a18eeab5bcabb55.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 371967,
+    "lastspriteid": 372002,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-cae8bb638a9b53796dc4cc7a888426775622609c4f9b7ecc37c2c28853c45b89.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372003,
+    "lastspriteid": 372038,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-fcec8d38c249eb6d6baad506cf61f45b11f5dbf8e68afbe3db0efdcd334bcafa.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372039,
+    "lastspriteid": 372074,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0c96392eb8f6dc822bc7c18ec025861ac2fe0abb221c6f548f5fb3e29312e51d.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372075,
+    "lastspriteid": 372110,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-50f895384c1b45b6e4a17efe93dd54ac64169613825b91902c95609d0a7aeed4.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372111,
+    "lastspriteid": 372146,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-992cf9a81471eeccc6b16277ec0d0b023082d498b5a6d902456a4d3ba2688f37.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372147,
+    "lastspriteid": 372182,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-188b5bd53fad20b22420da80b70091688cae7c1f080b322efcb44ac548bdba40.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372183,
+    "lastspriteid": 372218,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4d0992a299c3308da9da1f1dd1e6aedc4a77596fa2bb5849a668d3239fedc1e9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372219,
+    "lastspriteid": 372254,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4631e55b19d326b2c7efd0cabcc90c7abed4613d95ae6b2d58184803c51199aa.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372255,
+    "lastspriteid": 372265,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f948f8cf6d11827a706a31387839be6ae2a26c2371666ea56098a56d1cf594f8.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372266,
+    "lastspriteid": 372301,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1254757107ae64c7df0d75e2fa3978cf0ac860fa558bd34385bfa150d813c4ba.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372302,
+    "lastspriteid": 372337,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ff357400bbe927454f89b919b73909aa434e5950a666995380797aa83c93531b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372338,
+    "lastspriteid": 372373,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-eb276a47d43e1d05b8716316c4fe5dbb54a12cc479074d32f4d8426a6d761d7c.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372374,
+    "lastspriteid": 372409,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5333940956356f54dd937bdaefdd1b4acadabd431c5086df01313dc5d3f80bc5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372410,
+    "lastspriteid": 372445,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c9c1c62ca3574b9a5fe04e0777ed5ed2dedfe21d1e26edc1a896980a1dff2d45.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372446,
+    "lastspriteid": 372481,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-abf69eb0ac3ce3b5e1809008a97f62274ad286f07a986ede5f5fd71c6af135d6.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372482,
+    "lastspriteid": 372517,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-aa4badb0ef2f6b7d9228b1191da7075cdcde40460ea3c0a71ba312424180d610.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372518,
+    "lastspriteid": 372553,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-57fafdb9e4918f14ef8fca258489f77af54e8a8fe2fc5213577399469a580f24.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372554,
+    "lastspriteid": 372589,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b629d5575c5c39c24cff78e9af4fa82c8d591c032da14f6debafa0e470a214b0.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372590,
+    "lastspriteid": 372625,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-379919da14ccfdfd9d5e4766d897ed7964a991254eeadc8e554dde85ad20810a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372626,
+    "lastspriteid": 372661,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2b9fa962255fd90c67d798699b30873127b6e3d78a53eb1ced7b1f373487d790.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372662,
+    "lastspriteid": 372697,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c968e51e80968c4c2b35f61903c3d6ad5546c37ec14225a9123529ad939621c8.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372698,
+    "lastspriteid": 372733,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-9a1b2b2d9b74d90088fa9c2c3bca55e882a44fd0df08c6ee1d9db309dc054cfb.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372734,
+    "lastspriteid": 372769,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0d60f5e23361d0098b28cec7f697f20739b448e3b1e17a5fc9e80120ebe843b0.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372770,
+    "lastspriteid": 372805,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b43a63897eee47bbc83e410cc27a7a3f0609a9368102b541fb798020689a901e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372806,
+    "lastspriteid": 372841,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-973824cccf9c15de218b4cbe2f2f8483f21581fbaca38856c8429d94392153f2.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372842,
+    "lastspriteid": 372877,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-189b3cc36d3439d83668dc2cd4f8ac2a13299d5b5a37bafa7816e691fd675e10.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372878,
+    "lastspriteid": 372913,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-30175d14f0041d7a4738596e9b251af74e74bbb22d5d6144830467415a190410.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372914,
+    "lastspriteid": 372949,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-15e4db1c5ff2414b22056719c717fda11dede4ea5f8db3f9a6f56e906632cfd5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372950,
+    "lastspriteid": 372985,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c910f77fdaacb0da613caaf5cac47c88cfa900d662494b71571d0cb9b66e5718.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 372986,
+    "lastspriteid": 373021,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-040214a436482d04b35056336c9ec2df2adce321cedb4fb9ce691fad411fe092.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373022,
+    "lastspriteid": 373057,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f369d22953b37e24e76d8c4946b1543c93af6afde1c006aa044685d7cdf18e28.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373058,
+    "lastspriteid": 373093,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-728044840d1f33bc8db5f88488593a36b9ee55490003753daa416535d2c28bf2.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373094,
+    "lastspriteid": 373129,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-3e0de193a454a627b5556cbba902d8ba9eb45583cf0f9ab9541ed4eae8bc159a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373130,
+    "lastspriteid": 373165,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-2cce14bd542e3f9f8b7b3610674ad597a700673688cff0d509bfbcaeb40f30d6.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373166,
+    "lastspriteid": 373201,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5755c8d05c1b9cf1834541ebd271da89fb12e76e455bbe82c51e7e229029f528.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373202,
+    "lastspriteid": 373237,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-80079c20c27498c2666c5e38331e35fea5f19d7892df30d4c6638a790f812f4b.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373238,
+    "lastspriteid": 373273,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4ec1b1136c0eb6c943ac4454a673566960ef997facbe6b76be3e1fae3a6afc7a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373274,
+    "lastspriteid": 373309,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7ce74a0239d7555902fc9fe9012064f43f7e116f52d2920f792943d85f172a6e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373310,
+    "lastspriteid": 373345,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-13e569fab962214001d089a68118aa52948d3fd1d94963aa1dd0fdab267d0c38.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373346,
+    "lastspriteid": 373381,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-12278bc8b74675a5dbe71fbae511fd59171d9c2da8bcce8345a6555ad46189c9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373382,
+    "lastspriteid": 373417,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-0946dee7fa0c7d3e4fbce869d9c55b731448df60832f5de00f91f6c639ba356c.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373418,
+    "lastspriteid": 373453,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a00803396e07a649a8e96cfc46bbfb6e728e37b304e231fc9cb3e00469fa9009.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373454,
+    "lastspriteid": 373489,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-e6a0ef48f9149d378a7ac06b0519577b004855502e5ce8536ee3d3aa434df8a8.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373490,
+    "lastspriteid": 373525,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-722eb48fd16177cbc1923ec11dc0f0dc7bba58c79938832573f3848a3175fa41.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373526,
+    "lastspriteid": 373561,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-4111ab2a685ca67bf54ad268ee78bc905210bb1ccc513b7e6d3423b38048381c.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373562,
+    "lastspriteid": 373597,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-bd8f84948456fef5f7ceb35a85c15fc48d51e390f73dd0d1dd35940985283539.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373598,
+    "lastspriteid": 373633,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-8a6dbd1509c5c03a459725da0ab5d6dcded915b429b7a8e4918a767897329eb5.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373634,
+    "lastspriteid": 373669,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f6497fa4b9d3e5f3d42f9a9349eb89621ddb5aa09f953bf6b66f4ced5b312d34.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373670,
+    "lastspriteid": 373705,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-a9de220724150d5ff4ddbb16a187438df6fcc270c5edc76abb6a0677c58ed071.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373706,
+    "lastspriteid": 373741,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-1d83bcc61abe3b64e9e57e02eff01a8ac4b519288c0e5cd4d8b727823f28022e.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373742,
+    "lastspriteid": 373777,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-5b8b9177a33bfc825575b7a7fc87c4e4288dec9ea2161714f48d0f797f252474.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373778,
+    "lastspriteid": 373813,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-56c5031899d5ba02c015b4b8380b116e58c900c224ae72641ea5f476ffba5c64.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373814,
+    "lastspriteid": 373849,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ace0679df2ec4cd65d7c7fcb974b795f15fee34ac3e76a279ba2de8b781dddd9.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373850,
+    "lastspriteid": 373885,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-ce846ed439e9a87130ad0ff150316f9efa8dd391742839e3dcd5464c5f4d4cf4.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373886,
+    "lastspriteid": 373921,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-f21f96e8d42cb32be62a83a450316302dc1a6af2477d1774dcfa9839cee9f50a.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373922,
+    "lastspriteid": 373957,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-c10c352fb8fb2f5fb7e75ba51ee600733bde51247c0dc7d64a79e117b80b9629.bmp.lzma",
+    "spritetype": 3,
+    "firstspriteid": 373958,
+    "lastspriteid": 373993,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-05f38b62ef272a722bb0d22397146eb5100e4b835fe62986cae3fd42bb0b7cfd.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 373994,
+    "lastspriteid": 374033,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b31262c848444a9be3ae601ffb620804938f94dabe7679317254815fa806dbae.bmp.lzma",
+    "spritetype": 1,
+    "firstspriteid": 374034,
+    "lastspriteid": 374088,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b4d9d05598762b81bd2ddbecd655fe337f31a71ac3cf54a93083ab0f49f7b812.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 374089,
+    "lastspriteid": 374233,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-b88ecc57a044a5a30058e18f9391a3f2511a0ece78137f4837b1494ba90c77e5.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 374089,
+    "lastspriteid": 374233,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-bc8bdf451c2ae21c1915f260efb7b5f8c31292c2ecbd4eacdf44dcb81630b763.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 374089,
+    "lastspriteid": 374233,
+    "area": 0
+  },
+  {
+    "type": "sprite",
+    "file": "sprites-7f58cb5663024bfa3a9ed1f2b543d5a9579a7ccfe19a3b10fe44075c3ec60ed1.bmp.lzma",
+    "spritetype": 0,
+    "firstspriteid": 374089,
+    "lastspriteid": 374233,
+    "area": 0
   }
 ]

@@ -1,6 +1,310 @@
-[ 2025-05-18 20:58:17,446 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
-[ 2025-05-18 20:58:17,688 ] Using spritesheet cache size of 910
-[ 2025-05-18 20:58:19,323 ] Asset loading complete
-[ 2025-05-18 20:58:19,833 ] Client is started for first the time.
-[ 2025-05-18 20:58:20,098 ] QObject: Cannot create children for a parent that is in a different thread.
-(Parent is QQmlEngine(0x180126f0310), parent's thread is QThread(0x1800a1f7910), current thread is QSGRenderThread(0x1801237cd70)
+[ 2025-02-21 22:50:50,323 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-02-21 22:50:51,485 ] Using spritesheet cache size of 910
+[ 2025-02-21 22:50:52,612 ] Asset loading complete
+[ 2025-02-21 22:50:52,993 ] Client is started for first the time.
+[ 2025-02-21 22:50:53,096 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1d6e6c7ef50), parent's thread is QThread(0x1d6de9c81e0), current thread is QSGRenderThread(0x1d6e7e801b0)
+[ 2025-02-22 10:03:46,706 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-02-22 10:03:48,666 ] Using spritesheet cache size of 910
+[ 2025-02-22 10:03:52,184 ] Asset loading complete
+[ 2025-02-22 10:03:52,725 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x21f289af380), parent's thread is QThread(0x21f203cb3e0), current thread is QSGRenderThread(0x21f29b54550)
+[ 2025-02-22 11:40:52,770 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-02-22 11:40:54,793 ] Using spritesheet cache size of 910
+[ 2025-02-22 11:40:58,280 ] Asset loading complete
+[ 2025-02-22 11:40:58,857 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2b06e4ce890), parent's thread is QThread(0x2b065877140), current thread is QSGRenderThread(0x2b06ed8b310)
+[ 2025-02-22 11:41:08,382 ] BattlEye: "Initialized (v1.249)"
+[ 2025-02-22 11:41:08,383 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-02-22 11:41:08,383 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-02-22 11:41:08,421 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171"  (unprotected:  "tcp://prod-lb-na.tibia.com:7171" )  requested (Charakter "Aarus Laor" )
+[ 2025-02-22 11:41:08,421 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Zunera"
+[ 2025-02-22 11:41:08,429 ] Connected to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Zunera"
+[ 2025-02-22 11:41:09,240 ] Request connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Zunera"
+[ 2025-02-22 11:41:11,378 ] BattlEye: "Server computed GUID: 2648302f3ddfcd959a0bf746621582de"
+[ 2025-02-22 11:41:17,258 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:41:17,258 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:41:30,575 ] Retrying to obtain clipboard.
+[ 2025-02-22 11:41:47,350 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:41:47,350 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:41:47,510 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:41:51,572 ] Backup connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Zunera" established
+[ 2025-02-22 11:42:32,060 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:32,060 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:32,060 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:32,060 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:32,060 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:32,060 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:32,060 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:33,414 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:33,414 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:33,414 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:33,414 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:33,414 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:33,416 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:33,416 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:34,266 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:34,266 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:34,276 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:34,276 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:34,276 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:34,276 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:34,276 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,232 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,232 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,232 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,232 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,232 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,232 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,232 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,975 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,975 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,976 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:37,976 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:38,667 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:38,667 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:38,667 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:38,667 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:38,857 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:38,857 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:40,866 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:40,866 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:41,059 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:41,059 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:41,061 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:41,061 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:41,061 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,280 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,281 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,281 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,281 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,281 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,281 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,828 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,829 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,829 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,829 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,841 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:45,841 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:46,920 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:46,920 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:46,930 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:47,270 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:47,270 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:42:47,281 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:43:52,221 ] Retrying to obtain clipboard.
+[ 2025-02-22 11:44:24,856 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:44:24,856 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:44:49,317 ] Retrying to obtain clipboard.
+[ 2025-02-22 11:46:53,352 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:46:53,352 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:46:53,352 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:46:54,924 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:46:54,924 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:46:54,924 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 11:46:55,102 ] QQuickPixmap: connectFinished() called when not loading.
+[ 2025-02-22 14:32:24,352 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-02-22 14:32:26,285 ] Using spritesheet cache size of 910
+[ 2025-02-22 14:32:29,803 ] Asset loading complete
+[ 2025-02-22 14:32:31,478 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1ffbeda7340), parent's thread is QThread(0x1ffb643d6b0), current thread is QSGRenderThread(0x1ffbf2aa1e0)
+[ 2025-02-23 00:12:05,421 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-02-23 00:12:07,540 ] Using spritesheet cache size of 910
+[ 2025-02-23 00:12:11,900 ] Asset loading complete
+[ 2025-02-23 00:12:12,644 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1e2cd8093a0), parent's thread is QThread(0x1e2c5458140), current thread is QSGRenderThread(0x1e2cd891a80)
+[ 2025-02-23 00:12:29,746 ] BattlEye: "Initialized (v1.249)"
+[ 2025-02-23 00:12:29,746 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-02-23 00:12:29,746 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-02-23 00:12:29,792 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171"  (unprotected:  "tcp://prod-lb-na.tibia.com:7171" )  requested (Charakter "Aarus Laor" )
+[ 2025-02-23 00:12:29,792 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Zunera"
+[ 2025-02-23 00:12:29,799 ] Connected to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Zunera"
+[ 2025-02-23 00:12:30,524 ] Request connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Zunera"
+[ 2025-02-23 00:12:33,740 ] BattlEye: "Server computed GUID: 2648302f3ddfcd959a0bf746621582de"
+[ 2025-02-23 00:13:12,942 ] Backup connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Zunera" established
+[ 2025-02-23 00:13:23,304 ] Connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Zunera"  was disconnected ( "The remote host closed the connection" )
+[ 2025-02-23 00:13:23,304 ] Connection to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Zunera"  was disconnected ( "The remote host closed the connection" )
+[ 2025-02-23 00:13:23,334 ] Disconnected from gameserver
+[ 2025-02-27 18:23:14,544 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-02-27 18:23:16,719 ] Using spritesheet cache size of 910
+[ 2025-02-27 18:23:20,489 ] Asset loading complete
+[ 2025-02-27 18:23:21,409 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x16e980a9a50), parent's thread is QThread(0x16e8f7ec970), current thread is QSGRenderThread(0x16e9b01be90)
+[ 2025-02-27 19:08:47,749 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-02-27 19:08:48,847 ] Using spritesheet cache size of 910
+[ 2025-02-27 19:08:49,911 ] Asset loading complete
+[ 2025-02-27 19:08:50,408 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x20022d30400), parent's thread is QThread(0x2001a6bc530), current thread is QSGRenderThread(0x20022ac5ab0)
+[ 2025-02-27 20:54:56,846 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-02-27 20:54:57,967 ] Using spritesheet cache size of 910
+[ 2025-02-27 20:54:59,186 ] Asset loading complete
+[ 2025-02-27 20:54:59,674 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x28cda768380), parent's thread is QThread(0x28cd258b090), current thread is QSGRenderThread(0x28cdde00060)
+[ 2025-03-19 17:34:47,659 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-03-19 17:34:48,695 ] Using spritesheet cache size of 910
+[ 2025-03-19 17:34:50,309 ] Asset loading complete
+[ 2025-03-19 17:34:50,427 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1f81a777d90), parent's thread is QThread(0x1f812f24dd0), current thread is QSGRenderThread(0x1f81bb7a3e0)
+[ 2025-03-19 17:36:18,691 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-03-19 17:36:19,758 ] Using spritesheet cache size of 910
+[ 2025-03-19 17:36:21,196 ] Asset loading complete
+[ 2025-03-19 17:36:21,353 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x26d46fc04c0), parent's thread is QThread(0x26d3f36bc70), current thread is QSGRenderThread(0x26d46ed6750)
+[ 2025-03-19 17:37:47,734 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-03-19 17:37:48,680 ] Using spritesheet cache size of 910
+[ 2025-03-19 17:37:49,852 ] Asset loading complete
+[ 2025-03-19 17:37:50,321 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x29250c0cd20), parent's thread is QThread(0x29248e62b70), current thread is QSGRenderThread(0x29253b7d690)
+[ 2025-03-22 11:14:38,181 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-03-22 11:14:40,136 ] Using spritesheet cache size of 910
+[ 2025-03-22 11:14:43,974 ] Asset loading complete
+[ 2025-03-22 11:14:45,000 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2ddd91c1d30), parent's thread is QThread(0x2ddd1a65740), current thread is QSGRenderThread(0x2ddd958fa80)
+[ 2025-03-22 13:35:27,531 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-03-22 13:35:28,887 ] Using spritesheet cache size of 910
+[ 2025-03-22 13:35:30,220 ] Asset loading complete
+[ 2025-03-22 13:35:30,776 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x209331433f0), parent's thread is QThread(0x2092b2a89e0), current thread is QSGRenderThread(0x20932e8eb70)
+[ 2025-03-23 12:44:30,663 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-03-23 12:44:32,744 ] Using spritesheet cache size of 910
+[ 2025-03-23 12:44:36,177 ] Asset loading complete
+[ 2025-03-23 12:44:36,824 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x27b6b5e7a40), parent's thread is QThread(0x27b63144780), current thread is QSGRenderThread(0x27b6be3bcf0)
+[ 2025-03-24 14:50:42,679 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-03-24 14:50:44,847 ] Using spritesheet cache size of 910
+[ 2025-03-24 14:50:48,238 ] Asset loading complete
+[ 2025-03-24 14:50:48,801 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2735202f900), parent's thread is QThread(0x273499ca000), current thread is QSGRenderThread(0x27352482430)
+[ 2025-03-27 13:44:53,485 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-03-27 13:44:54,552 ] Using spritesheet cache size of 910
+[ 2025-03-27 13:44:55,728 ] Asset loading complete
+[ 2025-03-27 13:44:56,292 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1e0046d2ca0), parent's thread is QThread(0x1e07bdcb460), current thread is QSGRenderThread(0x1e007879b70)
+[ 2025-03-27 13:45:23,790 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-03-27 13:45:24,748 ] Using spritesheet cache size of 910
+[ 2025-03-27 13:45:25,958 ] Asset loading complete
+[ 2025-03-27 13:45:26,479 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1647ede5280), parent's thread is QThread(0x164772bbc60), current thread is QSGRenderThread(0x1640296b440)
+[ 2025-04-02 18:30:39,873 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-02 18:30:40,959 ] Using spritesheet cache size of 910
+[ 2025-04-02 18:30:42,539 ] Asset loading complete
+[ 2025-04-02 18:30:42,666 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1e02f4c57a0), parent's thread is QThread(0x1e02783d410), current thread is QSGRenderThread(0x1e0305849c0)
+[ 2025-04-05 17:24:54,423 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-05 17:24:56,482 ] Using spritesheet cache size of 910
+[ 2025-04-05 17:25:00,644 ] Asset loading complete
+[ 2025-04-05 17:25:01,483 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1dfad5b6320), parent's thread is QThread(0x1dfa5833890), current thread is QSGRenderThread(0x1dfad241f30)
+[ 2025-04-05 17:25:31,535 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-05 17:25:32,498 ] Using spritesheet cache size of 910
+[ 2025-04-05 17:25:33,878 ] Asset loading complete
+[ 2025-04-05 17:25:34,035 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x197e493d320), parent's thread is QThread(0x197dced7e20), current thread is QSGRenderThread(0x197e7df7de0)
+[ 2025-04-05 18:04:04,253 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-05 18:04:05,209 ] Using spritesheet cache size of 910
+[ 2025-04-05 18:04:06,265 ] Asset loading complete
+[ 2025-04-05 18:04:06,738 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1cda22de2d0), parent's thread is QThread(0x1cd9a4e9240), current thread is QSGRenderThread(0x1cda5158780)
+[ 2025-04-08 14:11:11,430 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-08 14:11:12,444 ] Using spritesheet cache size of 910
+[ 2025-04-08 14:11:14,060 ] Asset loading complete
+[ 2025-04-08 14:11:14,160 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2909d190dd0), parent's thread is QThread(0x2909582be40), current thread is QSGRenderThread(0x2909e53daf0)
+[ 2025-04-08 14:11:30,843 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-08 14:11:30,843 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-08 14:11:30,843 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-08 14:11:30,887 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171"  (unprotected:  "tcp://prod-lb-na.tibia.com:7171" )  requested (Charakter "Break Me" )
+[ 2025-04-08 14:11:30,887 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Zunera"
+[ 2025-04-08 14:11:30,895 ] Connected to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Zunera"
+[ 2025-04-08 14:11:31,632 ] Request connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Zunera"
+[ 2025-04-08 14:11:33,839 ] BattlEye: "Server computed GUID: a11e92ae64ffdaae2846731ab7795684"
+[ 2025-04-08 14:12:13,857 ] Backup connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Zunera" established
+[ 2025-04-08 15:33:59,175 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-08 15:34:01,384 ] Using spritesheet cache size of 910
+[ 2025-04-08 15:34:05,834 ] Asset loading complete
+[ 2025-04-08 15:34:06,510 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x17dcba11ae0), parent's thread is QThread(0x17dc3f9ac50), current thread is QSGRenderThread(0x17dcbd78fc0)
+[ 2025-04-08 15:34:25,205 ] BattlEye: "Initialized (v1.249)"
+[ 2025-04-08 15:34:25,207 ] BattlEye: "Config entry: GameID tibia"
+[ 2025-04-08 15:34:25,207 ] BattlEye: "Config entry: MasterPort 7171"
+[ 2025-04-08 15:34:25,255 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171"  (unprotected:  "tcp://prod-lb-na.tibia.com:7171" )  requested (Charakter "Break Me" )
+[ 2025-04-08 15:34:25,255 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Zunera"
+[ 2025-04-08 15:34:25,261 ] Connected to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Zunera"
+[ 2025-04-08 15:34:26,002 ] Request connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Zunera"
+[ 2025-04-08 15:34:29,197 ] BattlEye: "Server computed GUID: a11e92ae64ffdaae2846731ab7795684"
+[ 2025-04-08 15:35:08,203 ] Backup connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Zunera" established
+[ 2025-04-10 10:06:29,038 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-10 10:06:30,965 ] Using spritesheet cache size of 910
+[ 2025-04-10 10:06:34,413 ] Asset loading complete
+[ 2025-04-10 10:06:35,067 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1bbaf999990), parent's thread is QThread(0x1bba7f7bad0), current thread is QSGRenderThread(0x1bbb2e6eb30)
+[ 2025-04-10 10:06:53,755 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-10 10:06:54,821 ] Using spritesheet cache size of 910
+[ 2025-04-10 10:06:56,215 ] Asset loading complete
+[ 2025-04-10 10:06:56,320 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x260f040d7d0), parent's thread is QThread(0x260e8803200), current thread is QSGRenderThread(0x260f36758f0)
+[ 2025-04-10 10:11:01,058 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-10 10:11:01,594 ] Using spritesheet cache size of 910
+[ 2025-04-10 10:11:03,998 ] Asset loading complete
+[ 2025-04-10 10:11:04,655 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2c6cdd98470), parent's thread is QThread(0x2c6c6556bc0), current thread is QSGRenderThread(0x2c6d6fcf0c0)
+[ 2025-04-10 10:11:16,249 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-10 10:11:16,347 ] Using spritesheet cache size of 910
+[ 2025-04-10 10:11:16,766 ] Asset loading complete
+[ 2025-04-10 10:11:17,319 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x27ab25f6be0), parent's thread is QThread(0x27aaa2ce690), current thread is QSGRenderThread(0x27ab97e7bb0)
+[ 2025-04-10 10:15:55,248 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-10 10:15:55,788 ] Using spritesheet cache size of 910
+[ 2025-04-10 10:15:58,467 ] Asset loading complete
+[ 2025-04-10 10:15:59,112 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2b15cd8fde0), parent's thread is QThread(0x2b155641e50), current thread is QSGRenderThread(0x2b16493b520)
+[ 2025-04-10 10:23:19,794 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-10 10:23:19,897 ] Using spritesheet cache size of 910
+[ 2025-04-10 10:23:20,304 ] Asset loading complete
+[ 2025-04-10 10:23:20,814 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x2bba209ecc0), parent's thread is QThread(0x2bb9a99e110), current thread is QSGRenderThread(0x2bba358b450)
+[ 2025-04-10 10:23:26,890 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-10 10:23:26,991 ] Using spritesheet cache size of 910
+[ 2025-04-10 10:23:27,390 ] Asset loading complete
+[ 2025-04-10 10:23:27,906 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1bd94ab5650), parent's thread is QThread(0x1bd8cc499e0), current thread is QSGRenderThread(0x1bd9c95b320)
+[ 2025-04-10 10:25:45,187 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-10 10:25:45,290 ] Using spritesheet cache size of 910
+[ 2025-04-10 10:25:45,771 ] Asset loading complete
+[ 2025-04-10 10:25:46,402 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1af87af0db0), parent's thread is QThread(0x1afffd0aab0), current thread is QSGRenderThread(0x1af8f10c6a0)
+[ 2025-05-26 16:09:05,899 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 16:09:08,662 ] Using spritesheet cache size of 910
+[ 2025-05-26 16:09:11,683 ] Asset loading complete
+[ 2025-05-26 16:09:46,486 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 16:09:47,015 ] Using spritesheet cache size of 910
+[ 2025-05-26 16:09:48,466 ] Asset loading complete
+[ 2025-05-26 16:09:49,419 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x1a744b4f300), parent's thread is QThread(0x1a73c8c3610), current thread is QSGRenderThread(0x1a744a2a000)
+[ 2025-05-26 16:11:15,712 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 16:11:16,518 ] Using spritesheet cache size of 910
+[ 2025-05-26 16:11:17,818 ] Asset loading complete
+[ 2025-05-26 16:13:40,874 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 16:13:41,766 ] Using spritesheet cache size of 910
+[ 2025-05-26 16:13:43,315 ] Asset loading complete
+[ 2025-05-26 16:19:59,874 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 16:20:00,272 ] Using spritesheet cache size of 910
+[ 2025-05-26 16:20:02,380 ] Asset loading complete
+[ 2025-05-26 16:45:25,231 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 16:45:25,555 ] Using spritesheet cache size of 910
+[ 2025-05-26 16:45:26,914 ] Asset loading complete
+[ 2025-05-26 16:48:12,970 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 16:48:13,408 ] Using spritesheet cache size of 910
+[ 2025-05-26 16:48:14,969 ] Asset loading complete
+[ 2025-05-26 16:48:51,742 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 16:48:52,393 ] Using spritesheet cache size of 910
+[ 2025-05-26 16:48:53,838 ] Asset loading complete
+[ 2025-05-26 16:50:36,133 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 16:50:37,176 ] Using spritesheet cache size of 910
+[ 2025-05-26 16:50:38,757 ] Asset loading complete
+[ 2025-05-26 17:34:54,833 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-26 17:34:55,085 ] Using spritesheet cache size of 910
+[ 2025-05-26 17:34:57,145 ] Asset loading complete
+[ 2025-05-27 11:50:30,778 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-05-27 11:50:31,067 ] Using spritesheet cache size of 910
+[ 2025-05-27 11:50:32,741 ] Asset loading complete

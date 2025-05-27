@@ -1,0 +1,34 @@
+{
+    "hiddenQuestLines": [
+    ],
+    "options": {
+        "autoTrackNewQuests": true,
+        "autoUntrackCompletedQuests": true,
+        "showCompletedInQuestLog": true,
+        "showHiddenInQuestLog": false
+    },
+    "pinnedQuestLines": [
+    ],
+    "trackedQuests": [
+        {
+            "id": 6376,
+            "isPinned": false
+        },
+        {
+            "id": 1995,
+            "isPinned": false
+        },
+        {
+            "id": 1996,
+            "isPinned": false
+        },
+        {
+            "id": 1997,
+            "isPinned": false
+        },
+        {
+            "id": 1998,
+            "isPinned": false
+        }
+    ]
+}
